@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794242038,
+            "changeTime": 1504794242038,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794242038,
+            "changeTime": 1504794242038,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794317439,
+            "changeTime": 1504794317439,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794242038,
+            "changeTime": 1504794242038,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794314390,
+            "changeTime": 1504794314390,
+            "contentHash": "74fbac1f55d56af413bc60b42d8aa972f0360832",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes\\TestApex.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes\\TestApex.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1504794317440,
+            "changeTime": 1504794317440,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes\\TestApex.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes\\TestApex.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 24,
+            "modifiedTime": 1504794317440,
+            "changeTime": 1504794317440,
+            "contentHash": "8d66ab6e936bd0ec608d42f9729f66fc56b632eb"
+        }
+    ],
+    [
+        "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\srinivassalloori\\.rabit\\org\\autorabit.com-QoROkb\\scm\\Test\\DxTest1\\myapp\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504794317440,
+            "changeTime": 1504794317440,
+            "contentHash": "90f976d42a0493db72e18aef977c48d800cc5909"
+        }
+    ]
+]
